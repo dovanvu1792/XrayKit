@@ -11,7 +11,7 @@ let package = Package(
     .binaryTarget(
       name: "XrayKit",
       url: "https://github.com/dovanvu1792/XrayKit/releases/download/0.1.116/XrayKit.xcframework.zip",
-      checksum: "2916addbb3dec4e7a0449dde91e132b55f421e65cd780bbcd5f8295422195251"
+      checksum: "7d486cd0c882f25910133bf02029a6dd2a00d5a8ba4d509188ec0a97d7bdfda4"
     )
   ]
 )
